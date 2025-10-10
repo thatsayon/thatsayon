@@ -7,28 +7,28 @@
 
 I'm a skilled backend developer specializing in Django and Django REST Framework, with experience designing scalable REST/I APIs. Proficient in Linux server management and VPS deployment, I ensure reliable production environments with a focus on high-performance applications. I have expertise in both simple front-end components and building robust backend solutions.
 
-- 🔭 Currently working at **Join Venture AI** as a Backend Developer
-- 🌱 Passionate about continuous learning in software development
-- 💻 Active tech content creator on YouTube with tutorials on Linux, Python, and backend development
-- 🎯 Strong problem-solving skills using Celery, Redis, and automation tools
-- 📍 Based in Dhaka, Bangladesh
+- Currently working at **Join Venture AI** as a Backend Developer
+- Passionate about continuous learning in software development
+- Active tech content creator on YouTube with tutorials on Linux, Python, and backend development
+- Strong problem-solving skills using Celery, Redis, and automation tools
+- Based in Dhaka, Bangladesh
 
 ## 💼 Professional Experience
 
 **Backend Developer** @ Join Venture AI, Full-time  
-*Jul 2020 — Present*
+*Jul 2025 — Present*
 - Collaborating with cross-functional teams in a hybrid work environment to deliver backend solutions
 - Developing and contributing to multiple backend projects with a focus on scalability and performance
 - Implementing system design and testing to ensure maintainable and high-quality codebase
 
 **Software Engineer** @ EdCluster, Hybrid  
-*May 2023 — Jun 2025*
+*May 2025 — Jun 2025*
 - Collaborating on software projects with a focus on hybrid work models
 - Contributing to system design, implementation, and testing of scalable applications
 - Supporting development with a focus on quality and maintainability
 
 **Backend Developer** @ Freelance, Remote  
-*May 2019 — Oct 2020*
+*May 2019 — Present*
 - Developed and maintained backend systems using Django and Django REST Framework for various clients
 
 ## 🛠️ Technical Skills
